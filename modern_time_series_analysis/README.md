@@ -1,5 +1,13 @@
 # Modern Time Series Analysis
 
+## YouTube Video
+
+Please see the link below to follow along with the tutorial online
+
+[Modern Time Series](https://www.youtube.com/watch?v=v5ijNXvlC5A&t=2115s)
+
+Presenter: Aileen Nielsen 
+
 ## Install and Setup
 
 Okay, I wanted to streamline this.  So you can just use this repo:
